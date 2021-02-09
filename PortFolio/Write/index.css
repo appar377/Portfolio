@@ -1,0 +1,30 @@
+body{
+    width: 630px;
+}
+
+.header_logo{
+    padding-top: 20px;
+    padding-left: 10px;
+    
+}
+
+.header_logo h2{
+    font-family: inherit;
+    font-size: 25px;
+    height: 20px;
+}
+
+.header_logo p{
+    font-family: serif;
+}
+
+.top img{
+    width: 630px;
+    padding-top: 40px;
+    padding-left: 0;
+}
+
+.top p{
+    font-size: 25px;
+    font-family: serif;
+}
